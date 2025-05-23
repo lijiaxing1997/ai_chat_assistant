@@ -31,3 +31,7 @@
 
 ## 二维码
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="二维码.jpg">
+  <img alt="" src="二维码.jpg"  width="20%">
+</picture>
